@@ -1,0 +1,18 @@
+Controles:
+
+Numpad 5 - Selecionar Opção
+Numpad 0 - Voltar Opção
+Numpad 8 - CIMA
+Numpad 4 - ESQUERDA
+Numpad 2 - BAIXO
+Numpad 6 - DIREITA
+F5 - ABRIR/FECHAR Menu
+
+ATALHOS:
+F6 - Teleportar ao Waypoint
+F7 - Curar-se
+F8 - Escolher Nível de Procurado
+F10 - Teleportar ao Objetivo
+
+Canal WanderACRE:
+https://www.youtube.com/c/WanderACRE
